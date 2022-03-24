@@ -1,0 +1,12 @@
+C:\Projects\pet\ShanpshotTests\SnapshotTests\CalculatorSample\bin\Debug\net5.0\CalculatorSample.deps.json
+C:\Projects\pet\ShanpshotTests\SnapshotTests\CalculatorSample\bin\Debug\net5.0\CalculatorSample.dll
+C:\Projects\pet\ShanpshotTests\SnapshotTests\CalculatorSample\bin\Debug\net5.0\ref\CalculatorSample.dll
+C:\Projects\pet\ShanpshotTests\SnapshotTests\CalculatorSample\bin\Debug\net5.0\CalculatorSample.pdb
+C:\Projects\pet\ShanpshotTests\SnapshotTests\CalculatorSample\obj\Debug\net5.0\CalculatorSample.csproj.AssemblyReference.cache
+C:\Projects\pet\ShanpshotTests\SnapshotTests\CalculatorSample\obj\Debug\net5.0\CalculatorSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\pet\ShanpshotTests\SnapshotTests\CalculatorSample\obj\Debug\net5.0\CalculatorSample.AssemblyInfoInputs.cache
+C:\Projects\pet\ShanpshotTests\SnapshotTests\CalculatorSample\obj\Debug\net5.0\CalculatorSample.AssemblyInfo.cs
+C:\Projects\pet\ShanpshotTests\SnapshotTests\CalculatorSample\obj\Debug\net5.0\CalculatorSample.csproj.CoreCompileInputs.cache
+C:\Projects\pet\ShanpshotTests\SnapshotTests\CalculatorSample\obj\Debug\net5.0\CalculatorSample.dll
+C:\Projects\pet\ShanpshotTests\SnapshotTests\CalculatorSample\obj\Debug\net5.0\ref\CalculatorSample.dll
+C:\Projects\pet\ShanpshotTests\SnapshotTests\CalculatorSample\obj\Debug\net5.0\CalculatorSample.pdb
